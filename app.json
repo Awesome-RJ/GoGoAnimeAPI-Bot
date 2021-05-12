@@ -1,0 +1,37 @@
+{
+    "name": "Anime Watch Bot",
+    "description": "Lol",
+    "logo": "https://telegra.ph/file/6056436006477ea903852.jpg",
+      "keywords": [
+      "telethon",
+      "pyrogram",
+      "anime",
+      "watch",
+      "Anime Download"
+    ],
+    "repository": "https://github.com/Red-Aura/Anime_Downloader_Probot",
+    "env": {
+      "API_ID": {
+        "description": "Api Hash Here",
+        "value": ""
+      },
+      "API_HASH": {
+        "description": "Api Id Here",
+        "value": ""
+      },
+      "TOKEN": {
+        "description": "Bot Token Here",
+        "value": ""
+      }
+    },
+    "addons": [{
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "12"
+      }
+    }],
+    "buildpacks": [{
+      "url": "heroku/python"
+    }]
+  }
+  
