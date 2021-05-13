@@ -1,4 +1,4 @@
-# WatchAnimeBot
+# Anime Downloader Probot
 A Simple Telegram bot based on Telethon&amp;Pyrogram for Scraping  Anime.
 ## How To Host
 The easiest way to deploy this Bot
