@@ -1,2 +1,2 @@
 telethon
-gogoanime-api
+git+https://github.com/Awesome-RJ/GoGoAnimeAPI.git
